@@ -1,0 +1,2 @@
+  FastaID  G_count  A_count  C_count  T_count  DNAcount  GC_percentage
+0  C1.308     1921     2552     1724     2290      8487      42.948038
